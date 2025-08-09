@@ -100,11 +100,8 @@ The ReTreasure platform unifies batch and streaming data into a governed Lakehou
 
 ---
 
-## Team
-- **Abhay Badyal** — Data sources & cloud architecture
-- **Shivam Sharma** — Architecture phases
-- **Neha Singh** — Pipeline design
-- **Meet Chirag** — Destinations & presentation
+## Author
+- **Meet Chirag** 
 
 ---
 
